@@ -1,0 +1,14 @@
+.card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 5px;
+  }
+  
+  .card-dragging {
+    opacity: 0.5; /* Reduced opacity for the dragging effect */
+  }
+  
+  h3{
+    color:chocolate;
+  }

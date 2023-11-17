@@ -1,0 +1,32 @@
+.header {
+    background-color: rgb(86, 132, 248);
+    color: white;
+    padding: 15px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+  }
+  
+  .headerNav {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .headerul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  .headerli {
+    margin-right: 90px; 
+    cursor:pointer;
+  }
+
+  a{
+    text-decoration: none;
+    color:aliceblue;
+  }
+  

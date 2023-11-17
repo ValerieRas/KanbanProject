@@ -1,0 +1,45 @@
+.Projetcontainer{
+  margin-top: 100px;;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.ProjetDescription {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  /* Style for the first row div */
+  .first-row {
+    width: 100%;
+    background-color: #e0e0e0;
+    padding: 20px;
+    box-sizing: border-box;
+    margin:10px;
+    border-radius: 10px;
+  }
+
+  /* Style for the second row divs */
+  .second-row {
+    width: 40%;
+    box-sizing: border-box;
+    padding: 20px;
+    background-color: #b7def7;
+    margin-left:60px;
+    border-radius: 10px;
+    
+  }
+
+  /* Style for the list inside the second row divs */
+  .second-row ul {
+    list-style-type: none;
+    padding: 0;
+  }
+
+  .second-row li {
+    margin-bottom: 10px;
+  }

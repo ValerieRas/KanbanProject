@@ -1,0 +1,46 @@
+.side-menu {
+    background-color: #b7def7;
+    color: white;
+    width: 150px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+  .side-menu nav ul {
+    list-style: none;
+    margin-top: 50px;
+    padding: 0;
+  }
+  
+  .side-menu nav li {
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+  
+  .side-menu nav .project-list {
+    display: none;
+    margin-left: 10px;
+  }
+  .side-menu nav .project-list.show {
+    display: block;
+    margin-left: 10px;
+    margin-top: 0px;
+  }
+  
+  .side-menu nav .nested-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .side-menu nav .nested-list li {
+    margin-bottom: 5px;
+  }
+
+  button{
+    background-color: inherit;
+    border-style: none;
+  }
