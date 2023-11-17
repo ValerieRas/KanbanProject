@@ -17,8 +17,6 @@ const UtilisateurPage: React.FC = () => {
   
           const response = await getProjetsUtilisateur(1);
 
-          console.log(response.data);
-
           const ApiProjet= response.data;
 
           setProjects(ApiProjet);

@@ -40,12 +40,13 @@ const ProjectForm: React.FC<ProjectFormProps> = ({ onSubmit }) => {
         try {
   
           const response = await getUtilisateur();
-
-          console.log(response.data);
-
+          if (response && response.data) {
           const ApiProjet= response.data;
 
           setUtilisateurs(ApiProjet);
+          }else {
+            console.error('Invalid response:', response);
+          }
   
         } catch (error) {
   
@@ -145,7 +146,7 @@ const ProjectForm: React.FC<ProjectFormProps> = ({ onSubmit }) => {
                 ))}
                 <button
                   type="button"
-                  onClick={() => push('')}
+                  onClick={() => push({ idUtilisateur: '', nom: '', prenom: '' })}
                 >
                   Ajouter
                 </button>

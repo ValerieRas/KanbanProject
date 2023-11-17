@@ -10,9 +10,6 @@ import { Statut } from '../../Models/StatutModel';
 
 const Column: React.FC<{status:Statut, tasks:Tache[]}> = ({ status, tasks }) => {
 
-    console.log("colonne satut");
-    console.log(status);
-
     const [taches, setTasks] = useState<Tache[]>([]);
 
     const [{ isOver }, drop] = useDrop({

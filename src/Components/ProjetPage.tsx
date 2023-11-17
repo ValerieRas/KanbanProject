@@ -33,13 +33,11 @@ const ProjetPage: React.FC = () => {
           const response = await getProjetsAvecID(projectId);
 
           const ApiProjet = response.data;
-          console.log(ApiProjet);
 
           const ApiUtilisateur : Utilisateur[]=response.data.idUtilisateurs;
-          console.log(ApiUtilisateur);
 
           const ApiObjectif:ObjectifProjet[]=response.data.objectifProjets;
-          console.log(ApiObjectif);
+
 
           setProjects(ApiProjet);
           setObjectifs(ApiObjectif);

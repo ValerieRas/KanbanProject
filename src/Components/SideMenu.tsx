@@ -16,8 +16,6 @@ const YourComponent: React.FC = () => {
   
           const response = await getProjetsUtilisateur(1);
 
-          console.log(response.data);
-
           const ApiProjet= response.data;
 
           setProjects(ApiProjet);
@@ -56,7 +54,7 @@ const YourComponent: React.FC = () => {
             <ul className="project-list">
               {projects.map((project: Projet, index) => (
                  <button onClick={handleClick}>
-                <li className="nested-list" key={index}>
+                <li className="nested-list" key={project.idProjet}>
                   <Link to={`/Projet/${project.idProjet}`}>{project.nomProjet}</Link>
                 </li>
                 </button>
