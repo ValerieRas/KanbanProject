@@ -1,0 +1,17 @@
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Business\Kaban.Business.Mapper\obj\Debug\net7.0\Kaban.Business.Mapper.csproj.AssemblyReference.cache
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Business\Kaban.Business.Mapper\obj\Debug\net7.0\Kaban.Business.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Business\Kaban.Business.Mapper\obj\Debug\net7.0\Kaban.Business.Mapper.AssemblyInfoInputs.cache
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Business\Kaban.Business.Mapper\obj\Debug\net7.0\Kaban.Business.Mapper.AssemblyInfo.cs
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Business\Kaban.Business.Mapper\obj\Debug\net7.0\Kaban.Business.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Business\Kaban.Business.Mapper\bin\Debug\net7.0\Kaban.Business.Mapper.deps.json
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Business\Kaban.Business.Mapper\bin\Debug\net7.0\Kaban.Business.Mapper.dll
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Business\Kaban.Business.Mapper\bin\Debug\net7.0\Kaban.Business.Mapper.pdb
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Business\Kaban.Business.Mapper\bin\Debug\net7.0\Kaban.Business.DTO.dll
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Business\Kaban.Business.Mapper\bin\Debug\net7.0\KANBAN.Data.Entity.dll
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Business\Kaban.Business.Mapper\bin\Debug\net7.0\KANBAN.Data.Entity.pdb
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Business\Kaban.Business.Mapper\bin\Debug\net7.0\Kaban.Business.DTO.pdb
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Business\Kaban.Business.Mapper\obj\Debug\net7.0\Kaban.Business.Mapper.csproj.CopyComplete
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Business\Kaban.Business.Mapper\obj\Debug\net7.0\Kaban.Business.Mapper.dll
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Business\Kaban.Business.Mapper\obj\Debug\net7.0\refint\Kaban.Business.Mapper.dll
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Business\Kaban.Business.Mapper\obj\Debug\net7.0\Kaban.Business.Mapper.pdb
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Business\Kaban.Business.Mapper\obj\Debug\net7.0\ref\Kaban.Business.Mapper.dll

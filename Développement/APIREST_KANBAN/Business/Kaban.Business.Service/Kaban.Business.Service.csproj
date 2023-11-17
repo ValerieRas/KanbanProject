@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Data\Kaban.Data.Repository.Contrat\Kaban.Data.Repository.Contrat.csproj" />
+    <ProjectReference Include="..\Kaban.Business.Mapper\Kaban.Business.Mapper.csproj" />
+    <ProjectReference Include="..\Kaban.Business.Service.Contrat\Kaban.Business.Service.Contrat.csproj" />
+  </ItemGroup>
+
+</Project>

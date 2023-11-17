@@ -1,0 +1,14 @@
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Data\KANBAN.Data.Entity\bin\Debug\net7.0\KANBAN.Data.Entity.deps.json
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Data\KANBAN.Data.Entity\bin\Debug\net7.0\KANBAN.Data.Entity.dll
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Data\KANBAN.Data.Entity\bin\Debug\net7.0\KANBAN.Data.Entity.pdb
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Data\KANBAN.Data.Entity\obj\Debug\net7.0\KANBAN.Data.Entity.csproj.AssemblyReference.cache
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Data\KANBAN.Data.Entity\obj\Debug\net7.0\KANBAN.Data.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Data\KANBAN.Data.Entity\obj\Debug\net7.0\KANBAN.Data.Entity.AssemblyInfoInputs.cache
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Data\KANBAN.Data.Entity\obj\Debug\net7.0\KANBAN.Data.Entity.AssemblyInfo.cs
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Data\KANBAN.Data.Entity\obj\Debug\net7.0\KANBAN.Data.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Data\KANBAN.Data.Entity\obj\Debug\net7.0\KANBAN.Data.Entity.dll
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Data\KANBAN.Data.Entity\obj\Debug\net7.0\refint\KANBAN.Data.Entity.dll
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Data\KANBAN.Data.Entity\obj\Debug\net7.0\KANBAN.Data.Entity.pdb
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Data\KANBAN.Data.Entity\obj\Debug\net7.0\ref\KANBAN.Data.Entity.dll
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Data\KANBAN.Data.Entity\bin\Debug\net7.0\KANBAN.Data.Entity.runtimeconfig.json
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Data\KANBAN.Data.Entity\obj\Debug\net7.0\KANBAN.Data.Entity.genruntimeconfig.cache

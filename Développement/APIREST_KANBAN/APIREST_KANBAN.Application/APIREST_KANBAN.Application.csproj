@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.7" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="6.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Business\Kaban.Business.Service.Contrat\Kaban.Business.Service.Contrat.csproj" />
+    <ProjectReference Include="..\Business\Kaban.Business.Service\Kaban.Business.Service.csproj" />
+    <ProjectReference Include="..\Data\Kaban.Data.Context.Contrat\Kaban.Data.Context.Contrat.csproj" />
+    <ProjectReference Include="..\Data\Kaban.Data.Context\Kaban.Data.Context.csproj" />
+    <ProjectReference Include="..\Data\Kaban.Data.Repository.Contrat\Kaban.Data.Repository.Contrat.csproj" />
+    <ProjectReference Include="..\Data\Kaban.Data.Repository\Kaban.Data.Repository.csproj" />
+    <ProjectReference Include="..\Data\KANBAN.Data.Entity\KANBAN.Data.Entity.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Data\Kaban.Data.Repository.Contrat\bin\Debug\net7.0\Kaban.Data.Repository.Contrat.deps.json
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Data\Kaban.Data.Repository.Contrat\bin\Debug\net7.0\Kaban.Data.Repository.Contrat.dll
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Data\Kaban.Data.Repository.Contrat\bin\Debug\net7.0\Kaban.Data.Repository.Contrat.pdb
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Data\Kaban.Data.Repository.Contrat\obj\Debug\net7.0\Kaban.Data.Repository.Contrat.csproj.AssemblyReference.cache
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Data\Kaban.Data.Repository.Contrat\obj\Debug\net7.0\Kaban.Data.Repository.Contrat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Data\Kaban.Data.Repository.Contrat\obj\Debug\net7.0\Kaban.Data.Repository.Contrat.AssemblyInfoInputs.cache
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Data\Kaban.Data.Repository.Contrat\obj\Debug\net7.0\Kaban.Data.Repository.Contrat.AssemblyInfo.cs
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Data\Kaban.Data.Repository.Contrat\obj\Debug\net7.0\Kaban.Data.Repository.Contrat.csproj.CoreCompileInputs.cache
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Data\Kaban.Data.Repository.Contrat\obj\Debug\net7.0\Kaban.Data.Repository.Contrat.dll
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Data\Kaban.Data.Repository.Contrat\obj\Debug\net7.0\refint\Kaban.Data.Repository.Contrat.dll
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Data\Kaban.Data.Repository.Contrat\obj\Debug\net7.0\Kaban.Data.Repository.Contrat.pdb
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Data\Kaban.Data.Repository.Contrat\obj\Debug\net7.0\ref\Kaban.Data.Repository.Contrat.dll
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Data\Kaban.Data.Repository.Contrat\bin\Debug\net7.0\KANBAN.Data.Entity.dll
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Data\Kaban.Data.Repository.Contrat\bin\Debug\net7.0\KANBAN.Data.Entity.pdb
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Data\Kaban.Data.Repository.Contrat\obj\Debug\net7.0\Kaban.Data.Repository.Contrat.csproj.CopyComplete

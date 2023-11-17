@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dRqVHYnAUPbWuOk59MNHo2zgPzALXUyebOa5nBZzIgY=",
+  "Source": "APIREST_KANBAN.Application",
+  "BasePath": "_content/APIREST_KANBAN.Application",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

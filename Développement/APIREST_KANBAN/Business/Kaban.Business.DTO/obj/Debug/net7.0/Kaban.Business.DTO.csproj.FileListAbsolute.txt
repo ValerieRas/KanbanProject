@@ -1,0 +1,15 @@
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Business\Kaban.Business.DTO\obj\Debug\net7.0\Kaban.Business.DTO.csproj.AssemblyReference.cache
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Business\Kaban.Business.DTO\obj\Debug\net7.0\Kaban.Business.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Business\Kaban.Business.DTO\obj\Debug\net7.0\Kaban.Business.DTO.AssemblyInfoInputs.cache
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Business\Kaban.Business.DTO\obj\Debug\net7.0\Kaban.Business.DTO.AssemblyInfo.cs
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Business\Kaban.Business.DTO\obj\Debug\net7.0\Kaban.Business.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Business\Kaban.Business.DTO\bin\Debug\net7.0\Kaban.Business.DTO.deps.json
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Business\Kaban.Business.DTO\bin\Debug\net7.0\Kaban.Business.DTO.dll
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Business\Kaban.Business.DTO\bin\Debug\net7.0\Kaban.Business.DTO.pdb
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Business\Kaban.Business.DTO\bin\Debug\net7.0\KANBAN.Data.Entity.dll
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Business\Kaban.Business.DTO\bin\Debug\net7.0\KANBAN.Data.Entity.pdb
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Business\Kaban.Business.DTO\obj\Debug\net7.0\Kaban.Business.DTO.csproj.CopyComplete
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Business\Kaban.Business.DTO\obj\Debug\net7.0\Kaban.Business.DTO.dll
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Business\Kaban.Business.DTO\obj\Debug\net7.0\refint\Kaban.Business.DTO.dll
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Business\Kaban.Business.DTO\obj\Debug\net7.0\Kaban.Business.DTO.pdb
+C:\Users\Rasol\OneDrive\Documents\CDA_DEVOPS\BRIEFS\BRIEF_8\Développement\APIREST_KANBAN\Business\Kaban.Business.DTO\obj\Debug\net7.0\ref\Kaban.Business.DTO.dll
